@@ -9,6 +9,10 @@
     "serve": "^11.3.2"
   },
   "dependencies": {
+    "@pixi/app": "^6.2.0",
+    "@pixi/core": "^6.2.0",
+    "@pixi/sprite": "^6.2.0",
+    "@pixi/ticker": "^6.2.0",
     "date-fns": "^2.16.1"
   },
   "scripts": {
