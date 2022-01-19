@@ -9,11 +9,16 @@
     "serve": "^11.3.2"
   },
   "dependencies": {
-    "@pixi/app": "^6.2.0",
-    "@pixi/core": "^6.2.0",
-    "@pixi/sprite": "^6.2.0",
-    "@pixi/ticker": "^6.2.0",
-    "date-fns": "^2.16.1"
+    "@pixi/app": "^6.2.1",
+    "@pixi/constants": "^6.2.1",
+    "@pixi/core": "^6.2.1",
+    "@pixi/display": "^6.2.1",
+    "@pixi/math": "^6.2.1",
+    "@pixi/runner": "^6.2.1",
+    "@pixi/settings": "^6.2.1",
+    "@pixi/sprite": "^6.2.1",
+    "@pixi/ticker": "^6.2.1",
+    "@pixi/utils": "^6.2.1"
   },
   "scripts": {
     "build": "rollup -c",
